@@ -12,4 +12,4 @@
   
   * [Themes](Modules/Themes/Themes.md)
   
-  * [Procedural Shapes](Modules/Procedural Shapes/ProceduralShapes.md)
+  * [UI Shapeskit](Modules/ProceduralShapes/ProceduralShapes.md)
