@@ -13,3 +13,5 @@
   * [Themes](Modules/Themes/Themes.md)
   
   * [UI Shapeskit](Modules/ProceduralShapes/ProceduralShapes.md)
+  
+  * [Settings](Modules/Settings/Settings.md)
